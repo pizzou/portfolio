@@ -24,7 +24,7 @@ function App() {
       <div className="max-w-screen-xl mx-auto">
       
       
-        {/* <Bot/> */}
+        <Bot/>
         <Banner />
         <Features />
         <Projects />
